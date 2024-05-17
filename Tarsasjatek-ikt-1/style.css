@@ -1,5 +1,8 @@
 body{
-    background-color: #c6e1c8;
+    background-color: yellowgreen;
+    background-image: url(img/images.png);
+    background-size: cover;
+    background-position: center center;
 }
 
 h1{
@@ -78,7 +81,7 @@ footer{
 }
 header{
     height: 500px;
-    background-image: url(../img/toboz_banner.jpg);
+    background-color: #77a85c;
     background-size: cover;
     background-position: center center;
     
